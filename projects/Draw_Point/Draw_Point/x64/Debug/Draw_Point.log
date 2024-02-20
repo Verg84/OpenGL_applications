@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\REPOSITORIES\3d_engines\OpenGL_apps\OpenGL_applications\projects\Draw_Point\Draw_Point\main.cpp(12,24): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\REPOSITORIES\3d_engines\OpenGL_apps\OpenGL_applications\projects\Draw_Point\Draw_Point\main.cpp(12,19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\REPOSITORIES\3d_engines\OpenGL_apps\OpenGL_applications\projects\Draw_Point\Draw_Point\main.cpp(12,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Draw_Point.vcxproj -> C:\REPOSITORIES\3d_engines\OpenGL_apps\OpenGL_applications\projects\First_Application\x64\Debug\Draw_Point.exe
