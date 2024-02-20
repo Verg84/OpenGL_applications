@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "First_Application", "First_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Draw_Point", "..\Draw_Point\Draw_Point\Draw_Point.vcxproj", "{D05D6E7C-E937-477E-B19E-F955C2AF4F84}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shaders_from_Files", "..\Shaders_from_Files\Shaders_from_Files.vcxproj", "{98561DCD-59D5-4994-B833-A2EFC72E2717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D05D6E7C-E937-477E-B19E-F955C2AF4F84}.Release|x64.Build.0 = Release|x64
 		{D05D6E7C-E937-477E-B19E-F955C2AF4F84}.Release|x86.ActiveCfg = Release|Win32
 		{D05D6E7C-E937-477E-B19E-F955C2AF4F84}.Release|x86.Build.0 = Release|Win32
+		{98561DCD-59D5-4994-B833-A2EFC72E2717}.Debug|x64.ActiveCfg = Debug|x64
+		{98561DCD-59D5-4994-B833-A2EFC72E2717}.Debug|x64.Build.0 = Debug|x64
+		{98561DCD-59D5-4994-B833-A2EFC72E2717}.Debug|x86.ActiveCfg = Debug|Win32
+		{98561DCD-59D5-4994-B833-A2EFC72E2717}.Debug|x86.Build.0 = Debug|Win32
+		{98561DCD-59D5-4994-B833-A2EFC72E2717}.Release|x64.ActiveCfg = Release|x64
+		{98561DCD-59D5-4994-B833-A2EFC72E2717}.Release|x64.Build.0 = Release|x64
+		{98561DCD-59D5-4994-B833-A2EFC72E2717}.Release|x86.ActiveCfg = Release|Win32
+		{98561DCD-59D5-4994-B833-A2EFC72E2717}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
